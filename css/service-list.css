@@ -1,0 +1,18 @@
+.service-list.branch-list {
+    border: 1px solid lightgrey; /* Light grey border */
+    padding: 20px;              /* Space inside the box */
+    margin: 10px;               /* Space between boxes */
+    border-radius: 8px;         /* Rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Light shadow */
+    transition: transform 0.3s ease; /* Smooth hover effect */
+}
+
+.service-list.branch-list:hover {
+    transform: scale(1.02); /* Slight zoom on hover */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Deeper shadow */
+}
+
+
+.vision-victory {
+    margin-top: -150px; /* Adjusted to move the section upwards */
+}

@@ -1,0 +1,17 @@
+.therapy-process-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    overflow-x: auto;
+}
+
+.therapy-process-item {
+    width: 220px;
+}
+
+.arrow-img {
+    width: 40px;
+    height: auto;
+}
